@@ -1,0 +1,50 @@
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Arial;
+}
+.heading {
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+.intro {
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 20px;
+  margin-top: 15px;
+}
+.educ {
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 20px;
+  margin-top: 15px;
+}
+.skills {
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 20px;
+  margin-top: 15px;
+}
+.about-me {
+  color: gray;
+}
+.ep1{
+  color: gray;
+}
+.ep2 {
+  color: gray;
+}
+.ep3 {
+  color: gray;
+}
+.ep4 {
+  color: gray;
+}
+.ep5{
+  color: gray;
+  margin-top: 10px;
+}
+.abs{
+  color: gray;
+}
